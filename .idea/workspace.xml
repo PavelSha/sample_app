@@ -2,31 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5623090-1986-450c-951e-daefbb845393" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/test.rb" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/user_pages_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/user_pages_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/users_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/users_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384538810234" ignored="false" />
+    <file path="/Dummy.txt" changelist="e5623090-1986-450c-951e-daefbb845393" time="1385148075859" ignored="false" />
     <file path="/static_pages_spec.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382808803859" ignored="false" />
     <file path="/home.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382810670421" ignored="false" />
     <file path="/about.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1381532690359" ignored="false" />
     <file path="/help.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1381532709921" ignored="false" />
     <file path="/application_helper.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382278901703" ignored="false" />
-    <file path="/application.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382467314984" ignored="false" />
-    <file path="/custom.css.scss" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382555175343" ignored="false" />
-    <file path="/routes.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382810459625" ignored="false" />
+    <file path="/application.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1385149071234" ignored="false" />
+    <file path="/custom.css.scss" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384974985500" ignored="false" />
+    <file path="/routes.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384611397031" ignored="false" />
     <file path="/static_pages_controller.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382798946031" ignored="false" />
     <file path="/contact.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382799143640" ignored="false" />
     <file path="/a.dummy" changelist="e5623090-1986-450c-951e-daefbb845393" time="1383850057031" ignored="false" />
     <file path="/_header.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382806680640" ignored="false" />
     <file path="/_footer.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382806720890" ignored="false" />
     <file path="/utilities.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382808708890" ignored="false" />
-    <file path="/user_pages_spec.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382810122984" ignored="false" />
-    <file path="/new.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1382810547984" ignored="false" />
-    <file path="/Gemfile" changelist="e5623090-1986-450c-951e-daefbb845393" time="1383240747578" ignored="false" />
+    <file path="/user_pages_spec.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384970268562" ignored="false" />
+    <file path="/new.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384972228218" ignored="false" />
+    <file path="/Gemfile" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384613186875" ignored="false" />
     <file path="/user.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384541488187" ignored="false" />
     <file path="/user_spec.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384282875312" ignored="false" />
     <file path="/20131109110846_add_index_to_users_email.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1383995431781" ignored="false" />
+    <file path="/show.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384699390046" ignored="false" />
+    <file path="/users_controller.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1385149337062" ignored="false" />
+    <file path="/factories.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384630509765" ignored="false" />
+    <file path="/test.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384631357406" ignored="false" />
+    <file path="/users_helper.rb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384698672140" ignored="false" />
+    <file path="/_error_messages.html.erb" changelist="e5623090-1986-450c-951e-daefbb845393" time="1384972791718" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,62 +63,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
+            <state line="10" column="52" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="432" selection-end="432" vertical-scroll-proportion="0.47635728">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="14" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="callbacks.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/activerecord-3.2.13/lib/active_record/callbacks.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="239" column="7" selection-start="10250" selection-end="10250" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20131109110846_add_index_to_users_email.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20131109110846_add_index_to_users_email.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="42" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/activerecord-3.2.13/lib/active_record/base.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="328" column="18" selection-start="16034" selection-end="16034" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20131031165941_create_users.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20131031165941_create_users.rb">
+      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -109,19 +81,75 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+      <file leaf-file-name="_shim.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_shim.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="27" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding>
+                <marker date="1382810991171" expanded="true" signature="4:102" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="55" selection-start="1676" selection-end="1676" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20131111175902_add_password_digest_to_users.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20131111175902_add_password_digest_to_users.rb">
+      <file leaf-file-name="users.css.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/users.css.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="186" selection-end="186" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="development.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="43" selection-start="417" selection-end="417" vertical-scroll-proportion="0.39045936">
               <folding />
             </state>
           </provider>
@@ -145,28 +173,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-        <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-        <option value="$PROJECT_DIR$/spec/support/utilities.rb" />
-        <option value="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
-        <option value="$PROJECT_DIR$/spec/requests/user_pages_spec.rb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20131109110846_add_index_to_users_email.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/spec/factories.rb" />
+        <option value="$PROJECT_DIR$/config/environments/test.rb" />
+        <option value="$PROJECT_DIR$/app/helpers/users_helper.rb" />
+        <option value="$PROJECT_DIR$/app/views/users/show.html.erb" />
+        <option value="$PROJECT_DIR$/spec/requests/user_pages_spec.rb" />
+        <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="162" />
-    <option name="y" value="208" />
+    <option name="x" value="722" />
+    <option name="y" value="110" />
     <option name="width" value="987" />
     <option name="height" value="769" />
   </component>
@@ -196,6 +224,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -423,6 +452,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -537,7 +588,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -756,14 +806,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="162" y="208" width="987" height="769" extended-state="0" />
+    <frame x="722" y="110" width="987" height="769" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24895397" sideWeight="0.6713615" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34512326" sideWeight="0.6713615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36120042" sideWeight="0.6713615" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -839,102 +889,116 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/activeresource-3.2.13/lib/active_resource/base.rb">
+    <entry file="file://$PROJECT_DIR$/spec/requests/user_pages_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1474" column="8" selection-start="55693" selection-end="55693" vertical-scroll-proportion="0.0" />
+        <state line="40" column="21" selection-start="1075" selection-end="1075" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/shared/_error_messages.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="7" column="27" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="15" selection-start="2283" selection-end="2283" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/capybara-1.1.2/lib/capybara/node/actions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="16" selection-start="1872" selection-end="1872" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="20" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="281" selection-end="281" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/users.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="186" selection-end="186" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/activerecord-3.2.13/lib/active_record/errors.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/activerecord-3.2.13/lib/active_record/base.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="328" column="18" selection-start="16034" selection-end="16034" vertical-scroll-proportion="0.0">
+        <state line="40" column="55" selection-start="1676" selection-end="1676" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/activemodel-3.2.13/lib/active_model/validations/validates.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="10" selection-start="3524" selection-end="3524" vertical-scroll-proportion="-0.5065177" />
-      </provider>
-    </entry>
-    <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/activerecord-3.2.13/lib/active_record/callbacks.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="239" column="7" selection-start="10250" selection-end="10250" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131031165941_create_users.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131111175902_add_password_digest_to_users.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_shim.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1382810991171" expanded="true" signature="4:102" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="52" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rspec-expectations-2.11.3/lib/rspec/matchers.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="8" selection-start="6643" selection-end="6643" vertical-scroll-proportion="-1.8602151" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="4" selection-start="988" selection-end="988" vertical-scroll-proportion="0.609319">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131109110846_add_index_to_users_email.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="42" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="14" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="27" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="1" selection-start="432" selection-end="432" vertical-scroll-proportion="0.47635728">
+        <state line="13" column="43" selection-start="417" selection-end="417" vertical-scroll-proportion="0.39045936">
           <folding />
         </state>
       </provider>
